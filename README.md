@@ -6,7 +6,7 @@
 
 每段文章会自动产生三段后续的剧情简介，可以自动生成或者选择剧情进行续写
 
-![image](http://m.qpic.cn/psc?/V51wssDj1XILak3qADmN1DgE0Y14y9tl/ruAMsa53pVQWN7FLK88i5nbPInUxEr0rh01hWHh96oXmfg2mJ8az31Qgs3dj5lBV2STY3Mtrgis6i5rqSKv6iMqSPIIBBXArEiYifefjyFk!/b&bo=bwYqAwAAAAADJ0I!&rf=viewer_4)
+![image](http://m.qpic.cn/psc?/V51wssDj1XILak3qADmN1DgE0Y14y9tl/ruAMsa53pVQWN7FLK88i5nbPInUxEr0rh01hWHh96oUK8WFXbbXP.O5To6*VvRaUgOIqDNdgfGyipef3xzrKZr*OcWS*xs5zAYrZy12AQvA!/b&bo=GwaiAwAAAAADJ74!&rf=viewer_4)
 
 [原项目地址](https://github.com/femnn/Chatgpt-Create-fun-gameplay/issues](https://github.com/aiwaves-cn/RecurrentGPT)
 
