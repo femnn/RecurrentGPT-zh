@@ -13,6 +13,7 @@
 ## 网页版试玩（原英文版本）
 文章部分:
 https://www.aiwaves.org/recurrentgpt  角色扮演游戏部分 https://www.aiwaves.org/interactivefiction
+
 因为部署到网页上需要api和服务器，我只有自己一个人来进行这个项目所以没办法像官方一样放出在线体验的demo
 
 点击右上角绿色的code按钮，下载zip文件到电脑中。
