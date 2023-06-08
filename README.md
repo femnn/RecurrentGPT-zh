@@ -15,6 +15,7 @@
 https://www.aiwaves.org/recurrentgpt  角色扮演游戏部分 https://www.aiwaves.org/interactivefiction
 因为部署到网页上需要api和服务器，我只有自己一个人来进行这个项目所以没办法像官方一样放出在线体验的demo
 
+点击右上角绿色的code按钮，下载zip文件到电脑中。
 使用下面代码来运行代码，我不会编程也部署成功了，相信我很简单的，你只需要下载一个python输入下面的代码就可以啦:
 ```
 export OPENAI_API_KEY="your_api_key"
